@@ -1,0 +1,11 @@
+{
+  "HELLO": "Hello",
+  "CONSUME_TEXT": "Consumption",
+  "PRODUCTION_TEXT": "Production",
+  "GAIN_TEXT": "Gain",
+  "SETTINGS": "Settings",
+  "SOLAR_PLANT": "Solar plant",
+  "NOT_VALID": "not valid",
+  "SAVE": "Save",
+  "EXIT": "Esci"
+}
